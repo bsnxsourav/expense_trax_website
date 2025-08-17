@@ -19,8 +19,3 @@ The app helps users track their UPI transactions, categorize expenses, and analy
 
 ### Dashboard
 ![Dashboard](assets/dashboard.png)
-
-## 🚀 How to Run Locally
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/upi-spend-tracker.git
